@@ -15,3 +15,4 @@ constantly updated based on when the button is pressed.
 
 I also made Testbench code that used each operation using 4 test cases each. The
 following is the resulting simulation:
+![alt text] (https://github.com/MarcosGrrcia/ALU-Artix-7-FPGA-Implementation/blob/main/Simulation%20Results.jpg?raw=true)
