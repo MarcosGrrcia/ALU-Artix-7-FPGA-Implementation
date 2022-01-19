@@ -13,6 +13,9 @@ button press that updates the buffers based on the imputed opcode. This way, the
 whole section where op code is checked, then code is ran. The variable sand signals are also
 constantly updated based on when the button is pressed. 
 
+The following is the opcode to execute its respective operation:
+![alt text](https://github.com/MarcosGrrcia/ALU-Artix-7-FPGA-Implementation/blob/main/OP%20Code%20Chart.png?raw=true)
+
 I also made Testbench code that used each operation using 4 test cases each. The
 following is the resulting simulation:
 ![alt text](https://github.com/MarcosGrrcia/ALU-Artix-7-FPGA-Implementation/blob/main/Simulation%20Results.jpg?raw=true)
